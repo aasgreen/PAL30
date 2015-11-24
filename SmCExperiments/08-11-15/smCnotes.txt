@@ -1,0 +1,11 @@
+#Notes
+
+
+|Name|Description|
+__________________
+20V-SmC-Film3 | No response under field (strength up to 35V). Interesting striped pattern on layer boundaries. No polarization response even under stage rotation. So far, I haven't seen any response from any applied electric field. 
+
+
+
+
+

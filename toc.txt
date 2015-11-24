@@ -1,0 +1,17 @@
+The investigation of PAL30
+----------------------------
+
+Intro/Overview: We had some initial problems with our first sample of
+PAL30. It looked like it had been contanimated, there were bubbles in it
+when it was heated to high temperature. We are currently trying to obtain
+more PAL30.
+
+In the meantime, I am trying to see the qualatative behaviour of PAL30 in
+other materials. I have a SmC compound that I've been making thin films with.
+We are hoping to see director transitions under an oscillating electric field.
+However, I didn't see anything definitive.
+
+Folders| Description
+June10/June11 | These contain the data for the initial investigation
+SmC| This contains the data from the experiments with SmC-- hoped to see director switching. Nothing conclusive.
+PAL30 | Contains the data for several PAL runs. Seeing switching behaviour, and even odd things. No strong evidence for tilt however.
